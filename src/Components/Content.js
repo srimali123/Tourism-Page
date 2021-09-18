@@ -9,7 +9,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import ArrowRightIcon from '@material-ui/icons/ArrowRight'; 
 import "./Content.css";
 import KeyboardArrowRightTwoToneIcon from '@material-ui/icons/KeyboardArrowRightTwoTone';
-
+import ChevronRightIcon from '@material-ui/icons/ChevronRight';
 const useStyles = makeStyles((theme) => ({
     button: {
       margin: theme.spacing(1),
@@ -25,7 +25,7 @@ const Content = ()=>{
               
              <p className="paragraph1">Place With Us</p>
              <button className="btn1"><a>START TODAY</a>
-             <KeyboardArrowRightTwoToneIcon/>
+             <ChevronRightIcon className="btns"/>
              </button>
 
              

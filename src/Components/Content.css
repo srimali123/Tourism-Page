@@ -27,3 +27,9 @@
     font-weight: 500;
     border:none;
 }
+.btns{
+    background-color: rgb(34, 82, 63);
+    border-radius: 90px;
+    color: azure;
+    margin-left: 25px;
+}
