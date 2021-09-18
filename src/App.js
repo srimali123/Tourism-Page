@@ -2,6 +2,7 @@
 
 import Header from './Components/Header';
 import Navbar from './Components/Navbar';
+import Content from './Components/Content';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
     
      </header>
      <Navbar/>
+     <Content/>
     </div>
   );
 }

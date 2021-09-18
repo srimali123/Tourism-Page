@@ -1,0 +1,29 @@
+.bg1{
+    margin: 30px 40px 10px 30px;
+    width: 1480px;
+}
+.paragraph{
+    margin: -800px 0px 0px 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+
+}
+.paragraph1{
+    margin: 0px 0px 0px 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+
+
+}
+.btn1{
+    background-color: rgb(239, 241, 243);
+    margin: 0px 0px 0px 300px;
+    width: 200px;
+    padding:6px;
+    color:rgb(3, 88, 53);
+    text-align:center;
+    font-weight: 500;
+    border:none;
+}

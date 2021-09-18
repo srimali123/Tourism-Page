@@ -23,33 +23,27 @@ h1{
 }
 /* Styles for wrapping the search box */
 
-.main {
-  width: 50%;
-  margin: 50px auto;
-}
 
-/* Bootstrap 4 text input with search icon */
-
-/* Styles for wrapping the search box */
 
 .main {
   width: 50%;
   margin: 50px auto;
 }
 
-/* Bootstrap 4 text input with search icon */
+
 
 
 .has-search .form-control {
   padding-left: 2.375rem;
-  width: 250px;
-  margin: -200px 0px 90px 1000px;
-  border-radius: 85px ;
+  width: 200px;
+  margin: -200px 0px 90px 1200px;
+  border-radius: 90px ;
+  
 }
 
 .has-search .form-control-feedback {
-  position:fixed;
-  margin: -2px 1000px 10px 1020px;
+  position:absolute;
+  margin: -2px 1000px 10px 1350px;
   display: inline-block;
   width: 2.375rem;
   height: 2.375rem;

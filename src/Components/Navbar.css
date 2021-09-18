@@ -20,7 +20,7 @@ body {
     margin:20px  0px 0px 25px;
     display: inline-block;
     position: relative;
-    opacity: 0.75;
+    opacity: 0.95;
   }
   
   .nav-link:hover {
@@ -37,11 +37,11 @@ body {
   
   .nav-link-ltr::before {
     width: 0%;
-    bottom: 10px;
+    bottom: 1px;
   }
   
   .nav-link-ltr:hover::before {
-    width: 50%;
+    width: 60%;
   }
   
   .nav-link-fade-up::before {
@@ -62,5 +62,5 @@ body {
   }
   
   .nav-link-grow-up:hover::before {
-    height: 5px;
+    height: 10px;
   }
