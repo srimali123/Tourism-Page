@@ -6,7 +6,7 @@ import Twitter from "../assets/twitter.png";
 import Youtube from "../assets/youtube.png";
 import Insta from "../assets/insta.png";
 import Facebook from "../assets/facebook.png";
-import Logo1 from "../assets/travel.png";
+import Logo1 from "../assets/logo21.png";
 import {IconButton} from "@material-ui/core";
 import {  SearchOutlined} from "@material-ui/icons";
 
@@ -20,9 +20,9 @@ const Header = ()=>{
        <section>
            <div className="social-media">
               <a href="#"> <img  className ="icons" src={Twitter} /></a>
-               <a href="#"><img className ="icons" src={Youtube}/></a>
-               <a href="#"><img className ="icons"src={Insta}/></a>
-               <a href="#"><img  className ="icons"src={Facebook}/></a>
+               <a href="https://www.youtube.com/channel/UCCV5dO5L4t80MrZte0JOxcA"><img className ="icons" src={Youtube}/></a>
+               <a href="https://www.instagram.com/xiteb_official/"><img className ="icons"src={Insta}/></a>
+               <a href="https://web.facebook.com/xiteb/"><img  className ="icons"src={Facebook}/></a>
 
               
             </div>

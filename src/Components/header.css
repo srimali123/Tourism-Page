@@ -7,7 +7,7 @@ h1{
   margin: 0 1rem;
   transition: transform 250ms;
   display: inline-block;
-  border-radius:1rem;
+  border-radius:0rem;
 }
 
 .social-media{
@@ -15,9 +15,9 @@ h1{
   padding: 25px 50px;
 }
 .logo1 img{
-  height: 200px;
-  width: 200px;
-  margin: -90px 0px 40px 600px;
+  height: 250px;
+  width: 250px;
+  margin: -150px 0px 40px 600px;
   
   
 }

@@ -3,6 +3,8 @@
 import Header from './Components/Header';
 import Navbar from './Components/Navbar';
 import Content from './Components/Content';
+import Cards from './Components/Cards';
+import Contact from './Components/Contact';
 
 function App() {
   return (
@@ -13,6 +15,8 @@ function App() {
      </header>
      <Navbar/>
      <Content/>
+     <Cards/>
+     <Contact/>
     </div>
   );
 }
