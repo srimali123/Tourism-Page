@@ -1,5 +1,5 @@
 .logofoot{
-    margin: 0px 20px 0px 650px;
+    margin: 0px 20px 0px 690px;
 }
 .social-media1 img {
    
@@ -11,12 +11,66 @@
     
   }
   .social-media1{
-      margin:-55px 10px 20px 550px;
+      margin:-55px 10px 20px 600px;
   }
   .leftp{
-      margin: 30px 50px 30px 100px;
-      padding: 10px 1000px 10px 10px;
+      margin: 30px 70px 0px 90px;
+      padding: 10px 800px 0px 10px;
   }
-  .part4h1{
-      margin: -140px 0px 200px 850px;
+ 
+    
+      
+  /* .email{
+      margin: -90px 0px 10px 280px;
+  } */
+  .email{
+      margin: -40px 0px 10px  200px;
   }
+
+  .style{
+      margin-bottom: 10px;
+      margin-top: 15px;
+      
+      
+     
+  }
+  .btnSubmit{
+      background-color: rgb(19, 155, 64);
+      color:white;
+      width:130px;
+      margin: 10px 30px 10px 260px;
+      border-radius: 10px;
+      text-align: center;
+      padding: 10px;
+
+  }
+  .rightS{
+    margin: -250px 50px 0px 780px;
+  }
+   .leftp-left a{
+      text-decoration: underline;
+      color: black;
+      font-weight: 500;
+  }
+  .p1{
+    color: black;
+    font-weight: 500;
+   
+  }
+ .rightsection a{
+    color: black;
+    font-weight: 400;
+   margin-top: 50px;
+    
+ }
+ .rightsection{
+     margin: -158px 0px 10px 300px;
+ }
+ .footer{
+     margin: 10px 100px 40px 25px;
+     width:1480px;
+     background-color: rgb(35, 161, 90);
+     text-align: center;
+     color: rgb(255, 255, 255);
+     padding: 3px ;
+ }
